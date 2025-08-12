@@ -1,10 +1,11 @@
 import random
+import os
 from collections import Counter
 from list_kata import pilihkata
+os.system('clear||cls')
 
 kata_rahasia = pilihkata()
-
-MAX_TEBakan = 6
+MAX_TEBakan = 10
 
 def beri_umpan_balik(tebakan, target):
     hasil = ['⬛'] * 5
