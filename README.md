@@ -2,7 +2,7 @@
 kumpulan script-script yang dibuat untuk kepentingan sekolah 🧑🏻‍💻🏫 
 
 ## katale 🔡
-Katale adalah game yang dibuat seperti (Wordle)[https://en.m.wikipedia.org/wiki/Wordle] yang dimana seseorang harus menebak sebuah kata yang terdiri dari 5 huruf
+Katale adalah game yang dibuat seperti [Wordle](https://en.m.wikipedia.org/wiki/Wordle) yang dimana seseorang harus menebak sebuah kata yang terdiri dari 5 huruf
 
 - Cara Kerja
 1. emoji blok ⬛`#000000` menunjukan bahwa tidak ada huruf didalam kata tersebut
