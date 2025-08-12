@@ -11,6 +11,9 @@ Katale adalah game yang dibuat seperti [Wordle](https://en.m.wikipedia.org/wiki/
 
 semisal kata rahasia adalah `rumah`
 
+apabila anda berhasil menebak maka akan keluar
+```🎉 Selamat! kamu menebak kata rumah dengan benar!```
+
 ```
 Tebakan ke-1: sebar
 Hasil: ⬛⬛⬛🟩🟨
@@ -23,8 +26,16 @@ Hasil: 🟩🟩🟩🟩🟩
 🎉 Selamat! kamu menebak kata rumah dengan benar!
 ```
 
-apabila anda berhasil menebak maka akan keluar
-```🎉 Selamat! kamu menebak kata rumah dengan benar!```
-
 apabila tebakan anda salah sebanyak 10 kali maka akan keluar
 ```😢 Kamu gagal menebak. Kata yang benar adalah: rumah```
+
+```
+Tebakan ke-1: sopir
+Hasil: ⬛⬛⬛⬛🟨
+Tebakan ke-2: sumur
+Hasil: ⬛⬛🟩⬛🟨
+...
+Tebakan ke-10: remah
+Hasil: 🟩⬛🟩🟩🟩
+😢 Kamu gagal menebak. Kata yang benar adalah: rumah
+```
