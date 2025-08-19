@@ -1,4 +1,4 @@
-# sript-sekolah
+# skript-sekolah
 kumpulan script-script yang dibuat untuk kepentingan sekolah 🧑🏻‍💻🏫 
 
 ## katale 🔡
@@ -46,7 +46,7 @@ Apu69 adalah sebuah game yang mempertaruhkan sebuah mata uang Rp alias Rapih buk
 • Petraspin
 Petraspin adalah game yang dimana kita mempertaruhkan mata uang untuk mencocokan  3 gambar/emoji (7️⃣🍎🐵🎉🎱)
 
-Awalnya kita akan input uang yang ingin kita taruh(taruhan), dan anda dikasil Uang awal sebesar satu juta Rapih (Rp 1.000.000)
+Awalnya kita akan input uang yang ingin kita taruh(taruhan), dan anda dikasih Uang awal sebesar satu juta Rapih (Rp 1.000.000)
 ```
 Uangmu: Rp 1000000
 Rp ...
