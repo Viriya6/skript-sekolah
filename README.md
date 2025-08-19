@@ -39,3 +39,25 @@ Tebakan ke-10: remah
 Hasil: 🟩⬛🟩🟩🟩
 😢 Kamu gagal menebak. Kata yang benar adalah: rumah
 ```
+
+## apu69
+Apu69 adalah sebuah game yang mempertaruhkan sebuah mata uang Rp alias Rapih bukan rupiah ya, kalo rupiah mah D**. Pada game ini terdapat banyak sekali permainan.
+
+- List Permainan
+
+• Petraspin
+Petra adalah game yang dimana kita mempertaruhkan mata uang untuk mencocokan  3 gambar/emoji (7️⃣🍎🐵🎉🎱)
+
+Awalnya kita akan input uang yang ingin kita taruh(taruhan)
+```
+Uangmu: Rp 1000000 #uang awal 1.000.000
+Rp ...
+```
+
+Selanjutnya mesin Petraspin/Slut akan berputar dengan cara ```random.choice()```
+```
+7️⃣🍎🐵
+```
+sebanyak 20-30 kali, lalu jika:
+1. 3 emoji yang dikeluarkan sama maka uang yang kita taruhkan akan dikali sebesar 2x. ```🎱🎱🎱```
+2. 2 emoji yang dikeluarkan sama maka uang yang kita taruhkan akan dikali sebesar 0.5x. ```7️⃣🍎🍎```
