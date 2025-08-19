@@ -48,9 +48,9 @@ Apu69 adalah sebuah game yang mempertaruhkan sebuah mata uang Rp alias Rapih buk
 • Petraspin
 Petra adalah game yang dimana kita mempertaruhkan mata uang untuk mencocokan  3 gambar/emoji (7️⃣🍎🐵🎉🎱)
 
-Awalnya kita akan input uang yang ingin kita taruh(taruhan)
+Awalnya kita akan input uang yang ingin kita taruh(taruhan), dan anda dikasil Uang awal sebesar satu juta Rapih (Rp 1.000.000)
 ```
-Uangmu: Rp 1000000 #uang awal 1.000.000
+Uangmu: Rp 1000000
 Rp ...
 ```
 
