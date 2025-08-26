@@ -42,3 +42,6 @@ def petraspin(n: int):
         print(f"Anda kalah Rp {hasil}")
         hasil *= -1
         return hasil
+
+def petrukflip():
+    pass
