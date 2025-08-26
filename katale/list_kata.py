@@ -65,7 +65,6 @@ daftar_kata = [
   'skema',
   'merah',
   'ustaz',
-  'onani',
   'qasar',
   'oncat',
   'roboh',
