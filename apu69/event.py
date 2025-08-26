@@ -2,11 +2,8 @@ import random
 import time
 import os
 
-image = ["7️⃣", "🍎", "🐵", "🎉", "🎱"]
-lose_streak = 0
-win_streak = 0
-
 def petraspin(n: int):
+    image = ["7️⃣", "🍎", "🐵", "🎉", "🎱"]
     hasil = n
     a = random.randint(20, 30)
     for i in range(0, a):
