@@ -21,27 +21,24 @@ def petraspin(n: int):
     
     if(sone == stwo and stwo == sthree):
         hasil *= 2
-        print(f"Anda Menang Rp {hasil}")
+        print(f"Anda Menang ¥A {hasil}")
         return hasil
     elif(sone == stwo and stwo != sthree):
         hasil *= 0.5
         hasil = round(hasil)
-        print(f"Anda Menang Rp {hasil}")
+        print(f"Anda Menang ¥A {hasil}")
         return hasil
     elif(stwo == sthree and sone != stwo):
         hasil *= 0.5
         hasil = round(hasil)
-        print(f"Anda Menang Rp {hasil}")
+        print(f"Anda Menang ¥A {hasil}")
         return hasil
     elif(sone == sthree and sone != stwo):
         hasil *= 0.5
         hasil = round(hasil)
-        print(f"Anda Menang Rp {hasil}")
+        print(f"Anda Menang ¥A {hasil}")
         return hasil
     else:
-        print(f"Anda kalah Rp {hasil}")
+        print(f"Anda kalah ¥A {hasil}")
         hasil *= -1
         return hasil
-
-def petrukflip():
-    pass

@@ -5,8 +5,8 @@ os.system('clear||cls')
 money = 1000000
 
 while True:
-    print(f"Uangmu: Rp {money}")
-    n = int(input("Rp "))
+    print(f"Uangmu: ¥A {money}")
+    n = int(input("¥A "))
     if(money < n):
         print("Uang mu Tidak Cukup!")
     else:
